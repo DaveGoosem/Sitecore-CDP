@@ -1,0 +1,24 @@
+{
+    "name": "sitecore-cdp",
+    "version": "1.0.0",
+    "description": "Insert the Sitecore CDP scripts onto your page and fire events",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DaveGoosem/Sitecore-CDP.git"
+    },
+    "keywords": [
+        "Sitecore",
+        "CDP",
+        "Personalize"
+    ],
+    "author": "David Goosem",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/DaveGoosem/Sitecore-CDP/issues"
+    },
+    "homepage": "https://github.com/DaveGoosem/Sitecore-CDP#readme"
+}
